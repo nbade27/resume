@@ -1,16 +1,37 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# MMSR
+- project: MMSR
+  role: Java developer
+  duration: June 2023 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: This is an statistical reporting batch processing application.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Gateway 3
+- project: Gateway 3
+  role: Python developer
+  duration: Jan 2023 &mdash; June 2023
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: This is an enterprise application portal for students and admins.
+
+# Hubble Portal
+- project: Hubble Portal
+  role: Backend developer
+  duration: Sep 2021 &mdash; Jan 2023
+  # url: "#"
+  description: This is an Interface for all employees at miracle. This application provides tools to automate day to day activities (Payroll tools, timesheets, leave tracker, appraisals, holiday  calendar, trainings, contracts, onboarding, immigration, and  rewards, off-boarding) of Operations Team, all employee at  miraclesoft.
+
+# Services Bay
+- project: Services Bay
+  role: Backend developer
+  duration: Apr 2021 &mdash; Aug 2021
+  # url: "#"
+  description: This is a CRM application as an interface for Customers,  Vendors for any industry / Domain to maintain the organization. Employee information can be managed and maintained.
+
+# Hubble CRM
+- project: Hubble CRM
+  role: Backend developer
+  duration: Dec 2019 &mdash; Mar 2021
+  # url: "#"
+  description: This is a CRM Application as an interface to internal sales  and marketing teams at Miracle. To Manage opportunities.

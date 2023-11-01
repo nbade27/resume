@@ -1,12 +1,16 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Backend Development
+- skill: Backend Development
+  description: I have 4 years of experience leading organziations from community groups to business departments. Using technologies like Java, Springboot.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# REST API
+- skill: REST API
+  description: I have 4 years of experience in developing the REST API.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Relational Database
+- skill: Relational Database
+  description: I have 4 years of experience working with relational databases like Mysql, Oracle. I also have worked on PL/SQL.
+
+# Batch Processing
+- skill: Batch Processing
+  description: I have worked solving the business problems by using batch frameworks like Spring batch.
