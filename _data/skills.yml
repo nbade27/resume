@@ -1,7 +1,11 @@
 # Skills
 # Backend Development
 - skill: Backend Development
-  description: I have 4 years of experience leading organziations from community groups to business departments. Using technologies like Java, Springboot.
+  description: I have 4 years of experience leading organziations from community groups to business departments. Using technologies like Java, Springboot, Spring data JPA, Spring JDBC, Spring Security.
+
+# MVC Design pattern
+- skill: MVC Design pattern
+  description: I have 4 years of experience in developing the applications using MVC Design pattern.
 
 # REST API
 - skill: REST API
@@ -13,4 +17,8 @@
 
 # Batch Processing
 - skill: Batch Processing
-  description: I have worked solving the business problems by using batch frameworks like Spring batch.
+  description: I have worked on solving the business problems by using batch frameworks like Spring batch.
+
+# Unit Testing
+- skill: Unit Testing
+  description: I have good knowledge on code coverage for Java components using frameworks like Junit, Mockito.
