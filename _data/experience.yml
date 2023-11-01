@@ -3,10 +3,10 @@
 - company: CGI
   position: Software Engineer
   duration: Jan, 2023 &mdash; Present
-  summary: Working as Software engineer for developing REST API and batch processing systems using java, python, spring batch, AWS. Model and Control (MVC architecture) layer of application  development using open source technologies like AWS Lambda. Unit test java services and APIs using JUnit, Mockito, PostMan.Deploy build to SIT, UAT, Regression and Performance environments.<ul class="resume-item-list"><li>MMSR</li><li>Gateway 3</li></ul>
+  summary: Working as Software engineer for developing REST API and batch processing systems using java, python, spring batch, AWS. Model and Control (MVC architecture) layer of application  development. Unit test java services and APIs using JUnit, Mockito, PostMan.Deploy build to SIT, UAT, Regression and Performance environments.<ul class="resume-item-list"><li>Backend developer for Gateway 3</li><li>Java developer for MMSR</li></ul>
 
 # Director of Digital Stratgy
 - company: Miracle Software Systems
   position: Junior Technical Associate
   duration:  Dec, 2019 &mdash; Jan, 2023
-  summary: As a Junior Technical Associate in Miracle software systems I have worked on technologies like Springboot, AWS for developing REST API. Model and Control (MVC architecture) layer of application  development using open source technologies like Spring boot, Hibernate in conjunction with MySQL. Create GIT branches, Check-in changes, merge branches and  resolve merge conflicts. Active participation in all project discussions (requirements  walkthrough, production issues RCA, Project status updates, daily  status calls).
+  summary: As a Junior Technical Associate in Miracle software systems I have worked on technologies like Springboot, AWS for developing REST API. Create GIT branches, Check-in changes, merge branches and  resolve merge conflicts. Active participation in all project discussions (requirements  walkthrough, production issues RCA, Project status updates, daily  status calls).<ul class="resume-item-list"><li>Backend developer for Hubble CRM</li><li>Backend developer for Hubble Portal</li></ul>
