@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Naga Sai Bade"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "Software Engineer at CGI"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "nbade27@gmail.com"
